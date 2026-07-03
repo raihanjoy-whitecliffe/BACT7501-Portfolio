@@ -19,11 +19,11 @@ a budget tool to track balance, a simple billing process and printing receipt wh
 
 Files Included
 
-- profile_summary.py
-- grade_calculator.py  
-- budget_calculator.py
-- billing_system.py
-- scholarship_checker.py
+- task1_profile.py
+- task1_profile2.py  
+- task2_grade.py
+- task3_budget.py
+- task4_billing.py
 
 Skills Demonstrated
 
